@@ -1,0 +1,93 @@
+body {
+color: green;
+font-family:Arial,Arial black, geneva;
+font-weight: normal;
+background-color: #ffcf79;
+background-image: url(https://media.istockphoto.com/illustrations/cloudy-sky-illustration-id1311857021?k=20&m=1311857021&s=612x612&w=0&h=6v5RrG6tVHnUjkUlHbB_lsZF-G952GLB9hkZ0PxS_D4=);
+}
+
+h1 {
+text-decoration: underline;
+text-align: center;
+color: green;
+}
+
+h2{
+text-declaration: underline;
+text-align: center;
+color: green;
+
+}
+h3{
+text-decoration: underline;
+color: green;
+}
+
+
+p.para1 {
+color: blue;
+font-size: 25px;
+
+}
+
+p.para2{
+color: purple;
+font-size: 25px;
+}
+p.para3{
+
+color: black;
+font-size: 15px;
+line-height: 1.5em;
+background-color: grey ;
+padding: 20px;
+border-color:black ;
+border-width: 2px;
+border-style: solid;
+}
+
+p.para4{
+
+color: purple;
+font-size: 15px;
+line-height: 1.5em;
+background-color: pink ;
+padding: 20px;
+border-color:black ;
+border-width: 2px;
+border-style: dashed;
+margin: 20px;
+margin-top: 50px;
+margin-left:400px;
+}
+
+
+.imagec { 
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding: 3px;
+background-color: silver;
+border-color: black;
+border-width: 2px;
+border-style: solid;
+}
+.highlight{
+background-color: purple;
+}
+
+.divcontent{
+color: black;
+}
+a:link{
+color: blue;
+}
+
+a:visited{
+color: #8C8c9D;
+}
+
+a:hover{
+color: #F15A51;
+}
+
